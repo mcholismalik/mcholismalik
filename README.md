@@ -3,8 +3,7 @@
 - 🔭 I’m working as Lead Backend Engineer at [CODE ID](https://www.code.id/)
 - 🔭 Also working as Backend Engineer at [JENIUS](https://www.jenius.com/en)
 - 👨‍💻 Interest in Backend Engineering
-- 📫 Reach me on : 
--- [Linkedin](https://www.jenius.com/en)
+- 📫 Reach me on [Linkedin](https://www.jenius.com/en)
 
 
 <!--
