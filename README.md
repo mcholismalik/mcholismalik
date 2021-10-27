@@ -3,7 +3,7 @@
 - 🔭 I’m working as Lead Backend Engineer at [SejutaCita](https://sejutacita.id/)
 - 👨‍💻 Interest in Backend Engineering
 - ⚡ Interest make money with SAAS (On struggling)
-- 📫 Collabs ?, reach me on [Linkedin](https://www.jenius.com/en)
+- 📫 Collabs ? reach me on [Linkedin](https://www.jenius.com/en)
 
 
 <!--
