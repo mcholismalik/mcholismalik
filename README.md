@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m working as Lead Backend Engineer at [CODE ID](https://www.code.id/) & Backend Engineer at [JENIUS](https://www.jenius.com/en)
+- 🔭 I’m working as Lead Backend Engineer at [SEJUTACITA](https://sejutacita.id/)
 - 👨‍💻 Interest in Backend Engineering
+- ⚡ Interest make money with SAAS (Still on progress)
 - 📫 Reach me on [Linkedin](https://www.jenius.com/en)
 
 
