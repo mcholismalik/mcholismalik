@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m working as Lead Backend Engineer at [SEJUTACITA](https://sejutacita.id/)
+- 🔭 I’m working as Lead Backend Engineer at [SejutaCita](https://sejutacita.id/)
 - 👨‍💻 Interest in Backend Engineering
-- ⚡ Interest make money with SAAS (Still on progress)
-- 📫 Reach me on [Linkedin](https://www.jenius.com/en)
+- ⚡ Interest make money with SAAS (On struggling)
+- 📫 Collabs ?, reach me on [Linkedin](https://www.jenius.com/en)
 
 
 <!--
