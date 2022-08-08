@@ -2,7 +2,7 @@
 
 - 🔭 I’m working as Software Engineer at [Shipper](https://shipper.id/)
 - 👨‍💻 Interest in Backend Engineering
-- 📫 Collab ? reach me on [Linkedin](https://www.jenius.com/en)
+- 📫 Collab ? reach me on [Linkedin](https://www.linkedin.com/in/mcholismalik/)
 
 
 <!--
