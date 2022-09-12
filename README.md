@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working as Software Engineer at [Shipper](https://shipper.id/)
+- 🔭 I’m working as Software Engineer at [Mercari, Inc.](https://www.linkedin.com/company/mercari-inc-/)
 - 👨‍💻 Interest in Backend Engineering
 - 📫 Collab ? reach me on [Linkedin](https://www.linkedin.com/in/mcholismalik/)
 
